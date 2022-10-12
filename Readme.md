@@ -1,6 +1,6 @@
 ### Olá 👋;
 
-### Esse Projeto em Backend realizou-se uma API em Node.js com a IDE do VSCode.
+### Esse Projeto foi executado em Backend realizou-se uma API em Node.js com a IDE do VSCode.
 
 ### Primeiro foi criado o package com npm init,
 
