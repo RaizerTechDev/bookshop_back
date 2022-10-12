@@ -1,23 +1,27 @@
-/*
-Criar o arquivo package
-npm init
+### Olá 👋;
 
-//Gerencia as requisições, rotas , urls, entre outras funcionalidades
-npm install express,nodemon e morgan e body-parser
+### Esse Projeto em Backend realizou-se uma API em Node.js com a IDE do VSCode.
 
-Instalando um módulopara reiniciar o servidor sempre que houver alteração no código fonte
-npm install -D nodemon
+### Primeiro foi criado o package com npm init,
 
-Rodar o projeto baixado:
-//Instalar todas as depencias indicada pelo package.json
-npm install
+### Foram importadas as seguintes bibliotecas: 
 
-node app.js (para rodar)
+### ✔ Express, 
 
-Postman para requisições API
+### ✔ Nodemon, 
 
-Instalação de Dependencia: react-router-dom
+### ✔ Morgan, 
 
-Porta 21262
+### ✔ Cors, 
 
-*/
+### No package.json foi alterado em "scripts" para:
+### 🚀 start ⏩ "nodemon app.js", 
+## 👉Assim sempre fazendo auto-restart da aplicação, não precisando rodar manualmente. 
+
+### ✅ Testes de Requisições de API com a ferramenta Postman;
+
+### ✅ Criação de Endpoints da API Rest.
+
+
+
+
