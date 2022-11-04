@@ -15,7 +15,7 @@
 ### ✔ Cors, 
 
 ### No package.json foi alterado em "scripts" para:
-### 🚀 start ⏩ "nodemon app.js" na porta "3000",
+### 🚀 start ⏩ "nodemon app.js" na porta "3001",
 ## 👉Assim sempre fazendo auto-restart da aplicação, não precisando rodar manualmente. 
 
 ### ✅ Testes de Requisições de API com a ferramenta Postman;
